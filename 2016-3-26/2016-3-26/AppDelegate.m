@@ -16,7 +16,22 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    
+    
+    
+    /*
+     
+     孙高腾 男 芳龄18,家里田地千亩
+     
+     
+     
+     
+     
+     
+     
+     
+     */
     return YES;
 }
 
