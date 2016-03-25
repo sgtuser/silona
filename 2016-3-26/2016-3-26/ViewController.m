@@ -16,6 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"dasdasd");
+    NSLog(@"dasdasd");NSLog(@"dasdasd");
+    NSLog(@"dasdasd");NSLog(@"dasdasd");
+    NSLog(@"dasdasd");
+    //咋就不好使呢
+    //
+    //  高腾 你不是人 你还我血汗钱//
     
 }
 
