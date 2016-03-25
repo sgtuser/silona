@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+  //高腾!!!!
+    //我的咋的了额 啊 咋咋第 你说啥是就是啥
+    NSLog(@"shdkasbdk");
+    NSLog(@"sdasdsa");
     
 }
 
